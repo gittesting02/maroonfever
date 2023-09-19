@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_fc73a94c-b5b8-4e42-8ebc-42f9940fabdb
+    project-id: project_63c336e8-9d2d-4a2c-a3de-4d41850741b1
+    project-name: maroonfever
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
