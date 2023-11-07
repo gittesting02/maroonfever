@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: tdfgdfg-staging
+  labels:
+    environment-id: env_c8bffca2-babc-4c16-a913-ff850f52d343
+    project-id: project_1fa321ed-6739-4ab4-adc5-f46b96f2292a
+    project-name: tdfgdfg
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
