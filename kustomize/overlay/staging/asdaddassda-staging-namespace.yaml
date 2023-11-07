@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: asdaddassda-staging
+  labels:
+    environment-id: env_502575b2-301f-4cf6-abb5-2aafbd5633cf
+    project-id: project_b60b5d6d-fa70-4f40-bf79-ad1e8cf5dd2b
+    project-name: asdaddassda
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
