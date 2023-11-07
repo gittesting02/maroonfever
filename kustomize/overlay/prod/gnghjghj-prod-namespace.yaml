@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gnghjghj-prod
+  labels:
+    environment-id: env_0d4817c0-a369-4ad1-b464-b632f801a4a7
+    project-id: project_b0fcbfb7-bf2a-42e1-bb18-98fef13d1417
+    project-name: gnghjghj
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

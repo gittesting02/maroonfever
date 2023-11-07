@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gnghjghj-staging
+  labels:
+    environment-id: env_08bde929-add9-42fe-a405-f0dacce01146
+    project-id: project_b0fcbfb7-bf2a-42e1-bb18-98fef13d1417
+    project-name: gnghjghj
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
