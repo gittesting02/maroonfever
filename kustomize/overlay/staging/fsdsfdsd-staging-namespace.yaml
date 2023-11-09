@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: fsdsfdsd-staging
+  labels:
+    environment-id: env_0bc1974e-e249-4ac3-8a8f-77cd2341427f
+    project-id: project_36f45c78-2a10-4704-b6ea-225cd9f6adf8
+    project-name: fsdsfdsd
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
