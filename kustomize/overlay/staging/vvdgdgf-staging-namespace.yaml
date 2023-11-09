@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vvdgdgf-staging
+  labels:
+    environment-id: env_8d6ffe1a-a5b2-44e0-aba2-292aba6e5a44
+    project-id: project_53b27fa9-a4a6-4e7c-a014-4e4b4acffacf
+    project-name: vvdgdgf
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
