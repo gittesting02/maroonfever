@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gfllllllllllllllll-prod
+  labels:
+    environment-id: env_a3cf5ff0-91ff-4b89-81b7-6a7370420bc0
+    project-id: project_7541586d-1913-48e7-ac9e-07a9cdbb3084
+    project-name: gfllllllllllllllll
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

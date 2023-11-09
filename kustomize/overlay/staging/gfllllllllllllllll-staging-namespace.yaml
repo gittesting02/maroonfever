@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gfllllllllllllllll-staging
+  labels:
+    environment-id: env_75fb161b-772a-4ae5-8650-1470b8c857a5
+    project-id: project_7541586d-1913-48e7-ac9e-07a9cdbb3084
+    project-name: gfllllllllllllllll
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
